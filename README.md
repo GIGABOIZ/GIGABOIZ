@@ -16,6 +16,11 @@ I'm an indie game developer and the founder of GIGA LLC based in India. I spend 
 </p>
 
 ![Trophy](https://img.shields.io/badge/Achievement-First_Place_Hackathon-gold?style=for-the-badge&logo=codeforces)
+![Rank 1](https://img.shields.io/badge/Codeforces-Global_Rank_1-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700)
+![Hackathon Winner](https://img.shields.io/badge/National_Hackathon-1st_Place_Winner-FFD700?style=for-the-badge&logo=devpost&logoColor=black)
+![Product Hunt](https://img.shields.io/badge/Product_Hunt-%231_Product_of_the_Day-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)
+![Batch Topper](https://img.shields.io/badge/Computer_Science-Batch_Rank_1-1E90FF?style=for-the-badge&logo=academia&logoColor=white)
+![Ultimate Rank 1](https://img.shields.io/badge/Leaderboard-Rank_01-B22222?style=for-the-badge&logo=riotgames&logoColor=FFD700)
 ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-4CAF50?style=for-the-badge&logo=github)
 ![100 Days of Code](https://img.shields.io/badge/100_Days_of_Code-Completed-0078D4?style=for-the-badge&logo=visualstudiocode)
 ![LeetCode](https://img.shields.io/badge/LeetCode-100+_Questions_Solved-FFA116?style=for-the-badge&logo=leetcode)
