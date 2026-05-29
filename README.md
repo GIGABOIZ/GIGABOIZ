@@ -27,7 +27,15 @@ I'm an indie game developer and the founder of GIGA LLC based in India. I spend 
 ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Project Live](https://img.shields.io/badge/Web_App-Successfully_Deployed-00C7B7?style=for-the-badge&logo=netlify)
 ![Fast Learner](https://img.shields.io/badge/Status-Continuous_Learner-8A2BE2?style=for-the-badge)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/INDIA_RANK-9th-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="India Rank 9" />
+  <img src="https://img.shields.io/badge/TOTAL_COMMITS-215-2ea043?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits 215" />
+  <img src="https://img.shields.io/badge/Global_Percentile-Top_1%25-FFD700?style=for-the-badge&logo=codeforces&logoColor=white" alt="Top 1%" />
+ 
+  <img src="https://img.shields.io/badge/Sleep_Schedule-404_Not_Found-FF0000?style=for-the-badge&logo=spinnaker&logoColor=white" alt="No Sleep" />
+  <img src="https://img.shields.io/badge/Keyboard-Smashing_at_120WPM-black?style=for-the-badge&logo=codecademy&logoColor=white" alt="120 WPM" />
+  <img src="https://img.shields.io/badge/Bugs_Created-Countless-critical?style=for-the-badge&logo=bugatti&logoColor=white" alt="Bugs Countless" />
+</div>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/GIGABOIZ" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/1248119574726049793" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
@@ -37,3 +45,29 @@ I'm an indie game developer and the founder of GIGA LLC based in India. I spend 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <h3>MY DEVELOPMENT TOOLS</h3>
+  <br>
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white" alt="Apache Ant" />
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white" alt="Apache Flink" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" />
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/nginx_proxy_manager-%23F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white" alt="Nginx Proxy Manager" />
+  <img src="https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer" />
+  <img src="https://img.shields.io/badge/Kemp%20VLM-%23fedd00.svg?style=for-the-badge&logo=progress&logoColor=%235ce500" alt="Kemp VLM" />
+  <img src="https://img.shields.io/badge/Traefik-%252300314b.svg?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="TraefikProxy" />
+</div>
+
+<div align="center">
+  <h3>🏆 AWARDS & ACHIEVEMENTS 🏆</h3>
+  <br>
+  <img src="https://img.shields.io/badge/🏆_OVERALL_RANK-SSS_GOD_TIER-FFD700?style=for-the-badge" alt="SSS Tier Trophy" />
+  <img src="https://img.shields.io/badge/🏅_TOP_DEVELOPER-INDIA_REGION-FF9933?style=for-the-badge" alt="Gold Medal" />
+  <img src="https://img.shields.io/badge/🌟_CODE_MASTERY-LEVEL_82-9400D3?style=for-the-badge" alt="Code Mastery Level 82" />
+  <img src="https://img.shields.io/badge/🔥_STREAK-UNBREAKABLE-ff0000?style=for-the-badge" alt="Unbreakable" />
+</div>
