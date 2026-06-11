@@ -29,13 +29,9 @@ I'm an indie game developer and the founder of GIGA LLC based in India. I spend 
 ![Fast Learner](https://img.shields.io/badge/Status-Continuous_Learner-8A2BE2?style=for-the-badge)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/INDIA_RANK-9th-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="India Rank 9" />
   <img src="https://img.shields.io/badge/TOTAL_COMMITS-215-2ea043?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits 215" />
-  <img src="https://img.shields.io/badge/Global_Percentile-Top_1%25-FFD700?style=for-the-badge&logo=codeforces&logoColor=white" alt="Top 1%" />
  
   <img src="https://img.shields.io/badge/Sleep_Schedule-404_Not_Found-FF0000?style=for-the-badge&logo=spinnaker&logoColor=white" alt="No Sleep" />
-  <img src="https://img.shields.io/badge/Keyboard-Smashing_at_120WPM-black?style=for-the-badge&logo=codecademy&logoColor=white" alt="120 WPM" />
-  <img src="https://img.shields.io/badge/Bugs_Created-Countless-critical?style=for-the-badge&logo=bugatti&logoColor=white" alt="Bugs Countless" />
 </div>
 ### Socials
 
