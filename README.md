@@ -26,7 +26,7 @@ I'm an indie game developer and the founder of GIGA LLC based in India. I spend 
 ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Project Live](https://img.shields.io/badge/Web_App-Successfully_Deployed-00C7B7?style=for-the-badge&logo=netlify)
 ![Fast Learner](https://img.shields.io/badge/Status-Continuous_Learner-8A2BE2?style=for-the-badge)
-
+![Nationality](https://img.shields.io/badge/Nationality-INDO--RUSSIAN-blue?style=for-the-badge)
 <div align="center">
   <img src="https://img.shields.io/badge/TOTAL_COMMITS-215-2ea043?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits 215" />
  
